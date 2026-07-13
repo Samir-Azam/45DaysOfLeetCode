@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
