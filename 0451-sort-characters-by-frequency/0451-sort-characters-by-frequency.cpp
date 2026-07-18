@@ -1,22 +1,28 @@
 class Solution {
 public:
+
     string frequencySort(string s) {
-        unordered_map<char,int>mp;
-        for (char &ch : s){
-            mp[ch]++;
+        // integer to store frequency and second int to store current character
+        pair<int, int> freq[256] ;
+
+        for (int i=0;i<256;i++){
+            freq[i] = {0, i};
         }
-        //max heap
-        priority_queue<pair<int,char>>pq;
-        for (auto it: mp){
-            pq.push({it.second,it.first});
+
+        for (int i=0;i<s.size();i++){
+            freq[s[i]].first++;
         }
-        string ans = "";
-        while (!pq.empty()){
-            for (int i =1 ;i<=pq.top().first;i++){
-                ans += pq.top().second;
+
+        sort(freq, freq+256, greater<pair<int,int>>());
+        int i = 0;
+        string ans = "";    
+        while(freq[i].first!=0){
+            while(freq[i].first--){
+                ans+=char(freq[i].second);
             }
-            pq.pop();
+            i++;
         }
         return ans;
+
     }
 };
