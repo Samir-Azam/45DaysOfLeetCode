@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
+| [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
@@ -58,9 +60,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
