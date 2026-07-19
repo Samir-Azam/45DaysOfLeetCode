@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
 | [0162-find-peak-element](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
