@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
