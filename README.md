@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0162-find-peak-element) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0875-koko-eating-bananas) |
