@@ -39,12 +39,15 @@ public:
         ListNode* temp = newHead;
         fast = head;
         while(newHead){
-            if (newHead->val!=fast->val) return false;
+            if (newHead->val!=fast->val) {
+                reverse(temp);
+                return false;
+            }
             fast = fast->next;
             newHead = newHead->next;
         }
 
-        slow->next = reverse(temp);
+        reverse(temp);
         return true;
     }
 };
