@@ -1,19 +1,16 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int l=0, r=0, n=s.size(), ans=0;
-        int hash[3] = {0};
+        int hashArray[] = {-1, -1, -1};
 
-        while(r<n){
-            char curr = s[r];
-            hash[s[r]-'a']++;
-            while(hash[0]>0 && hash[1]>0 && hash[2]>0){
-                ans+=n-r;
-                hash[s[l]-'a']--;
-                l++;
+        int count = 0;
+        for (int i=0;i<s.size();i++){
+            hashArray[s[i]-'a'] = i;
+            if (hashArray[0]!=-1 && hashArray[1]!=-1 && hashArray[2]!=-1){
+                int min = *min_element(hashArray, hashArray+3);
+                count += (1+min);
             }
-            r++;
         }
-        return ans;
+        return count;
     }
 };
