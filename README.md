@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0260-single-number-iii) |
