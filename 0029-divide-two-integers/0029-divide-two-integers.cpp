@@ -2,25 +2,32 @@ class Solution {
 public:
     int divide(int dividend, int divisor) {
         if (dividend == divisor) return 1;
-        bool sign = true;
-        if ((dividend>=0 && divisor<0) || (dividend<=0 && divisor>0)) sign = false;
 
-        long nume = abs(long(dividend));
-        long deno = abs(long(divisor));
+        bool positive = true;
+        if ((dividend<0 && divisor>0) || (dividend>0 && divisor<0)) 
+            positive = false;
+        long long nume = llabs((long long)dividend);
+        long long deno = llabs((long long)divisor);
 
-        long ans = 0;
-        while (nume >= deno){
-            long power = 0;
-            while(deno<<(power+1)<=nume){
+        long long ans  = 0LL;
+        while(nume>=deno){
+
+            int power = 0;
+            while((deno<<power)<=nume){
                 power++;
             }
-            nume -= deno<<power;
-            ans += 1<<power; 
+            
+            power--;
+            nume -= (deno<<power);
+            ans += (1LL<<power);
         }
-        if (sign==false && ans==(1<<31)) return INT_MIN;
-        if (sign==true && ans==(1<<31)) return INT_MAX;
 
-        if (sign==false) return ans*(-1);
-        return ans;
+        if (positive==true){
+            if (ans>INT_MAX) return INT_MAX;
+            return ans;
+        }else{
+            if (ans>INT_MAX) return INT_MIN;
+            return -ans;
+        }
     }
 };
