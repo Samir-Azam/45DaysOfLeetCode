@@ -171,14 +171,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
