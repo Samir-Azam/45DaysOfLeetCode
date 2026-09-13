@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
