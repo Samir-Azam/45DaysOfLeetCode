@@ -25,9 +25,7 @@ public:
         for (auto it1: mp){
             vector<int>temp;
             for (auto it2: it1.second){
-                for (auto it3: it2.second){
-                    temp.push_back(it3);
-                }
+                temp.insert(temp.end(), it2.second.begin(), it2.second.end());
             }
             ans.push_back(temp);
         }
