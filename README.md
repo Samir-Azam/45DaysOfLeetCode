@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0078-subsets) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0162-find-peak-element](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0260-single-number-iii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0199-binary-tree-right-side-view) |
