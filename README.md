@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0877-stone-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
@@ -306,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
