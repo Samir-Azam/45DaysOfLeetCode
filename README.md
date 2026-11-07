@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0877-stone-game) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0877-stone-game) |
 ## Counting
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0733-flood-fill) |
 | [2643-row-with-maximum-ones](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0733-flood-fill) |
