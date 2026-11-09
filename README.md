@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1765-map-of-highest-peak](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1765-map-of-highest-peak) |
 | [2643-row-with-maximum-ones](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/2643-row-with-maximum-ones) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0733-flood-fill) |
+| [1765-map-of-highest-peak](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1765-map-of-highest-peak) |
 | [2643-row-with-maximum-ones](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1765-map-of-highest-peak](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1765-map-of-highest-peak) |
 ## DP on Trees
 |  |
 | ------- |
