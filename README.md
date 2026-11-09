@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1765-map-of-highest-peak) |
 | [2643-row-with-maximum-ones](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1765-map-of-highest-peak) |
 ## DP on Trees
 |  |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
