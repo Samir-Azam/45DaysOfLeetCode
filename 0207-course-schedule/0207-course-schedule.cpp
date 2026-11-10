@@ -25,12 +25,16 @@ private:
 public:
     bool canFinish(int numCourses,
                    vector<vector<int>>& prerequisites) {
-
+                    if (prerequisites.size()==0) return true;
         vector<vector<int>> adj(numCourses);
 
         // Build directed graph
-        for (auto it : prerequisites) {
-            adj[it[1]].push_back(it[0]);
+        int m = prerequisites.size();
+        int n = prerequisites[0].size();
+        for (int i=0;i<m;i++) {
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
+            adj[v].push_back(u);
         }
 
         vector<int> visited(numCourses, 0);
