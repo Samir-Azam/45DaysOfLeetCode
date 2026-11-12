@@ -1,52 +1,39 @@
-
 class Solution {
-private:
-    bool dfs(int node, vector<int>& visited,
-             vector<int>& path, vector<vector<int>>& adj) {
-
-        visited[node] = 1;
-        path[node] = 1;
-
-        for (auto it : adj[node]) {
-
-            if (!visited[it]) {
-                if (dfs(it, visited, path, adj))
-                    return true;
-            }
-            else if (path[it]) {
-                return true;
-            }
-        }
-
-        path[node] = 0;
-        return false;
-    }
-
 public:
-    bool canFinish(int numCourses,
-                   vector<vector<int>>& prerequisites) {
-                    if (prerequisites.size()==0) return true;
-        vector<vector<int>> adj(numCourses);
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        // simple logic is that you can only finish courses if they don't have cycles
 
-        // Build directed graph
-        int m = prerequisites.size();
-        int n = prerequisites[0].size();
-        for (int i=0;i<m;i++) {
-            int u = prerequisites[i][0];
-            int v = prerequisites[i][1];
+        // create adjacency list first
+        vector<vector<int>>adj(numCourses);
+
+        for (int i=0;i<prerequisites.size();i++){
+            int u = prerequisites[i][1];
+            int v = prerequisites[i][0];
             adj[v].push_back(u);
         }
 
-        vector<int> visited(numCourses, 0);
-        vector<int> path(numCourses, 0);
-
-        for (int i = 0; i < numCourses; i++) {
-            if (!visited[i]) {
-                if (dfs(i, visited, path, adj))
-                    return false;
+        // try to find a cycle using toposort
+        vector<int>inDegree(numCourses, 0);
+        for (int i=0;i<numCourses;i++){
+            for (auto it: adj[i]){
+                inDegree[it]++;
             }
         }
 
-        return true;
-    }
+        queue<int>q;
+        for (int i=0;i<numCourses;i++){
+            if (inDegree[i]==0) q.push(i);
+        }
+        int count = 0;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            count++;
+            for (auto it:adj[node]){
+                inDegree[it]--;
+                if (inDegree[it]==0) q.push(it);
+            }
+        }
+        return count==numCourses;
+    }   
 };
