@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1765-map-of-highest-peak](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/1765-map-of-highest-peak) |
 | [2643-row-with-maximum-ones](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/2643-row-with-maximum-ones) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
