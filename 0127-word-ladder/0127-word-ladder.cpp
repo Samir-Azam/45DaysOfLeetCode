@@ -2,7 +2,7 @@ class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
 
-        set<string>st(wordList.begin(), wordList.end());
+        unordered_set<string>st(wordList.begin(), wordList.end());
 
         queue<pair<string, int>>q;
         q.push({beginWord, 1});
