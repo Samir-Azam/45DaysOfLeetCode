@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0078-subsets) |
+| [0126-word-ladder-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0126-word-ladder-ii) |
 ## Array
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -424,5 +428,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Samir-Azam/45DaysOfLeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
