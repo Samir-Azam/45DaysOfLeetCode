@@ -5,20 +5,19 @@ public:
         int n = grid[0].size();
         if (grid[0][0]==1) return -1;
 
-        priority_queue<pair<int, pair<int, int>>, vector<pair<int,pair<int,int>>>,greater<pair<int, pair<int, int>>>> pq;
+        queue<pair<int, pair<int, int>>>q;
         vector<vector<int>>visited(m, vector<int>(n,0));
 
-        pq.push({1, {0, 0}});
+        q.push({1, {0, 0}});
         visited[0][0]=1;
 
-        while(!pq.empty()){
-            auto curr = pq.top();
-            pq.pop();
+        while(!q.empty()){
+            auto curr = q.front();
+            q.pop();
 
             int row = curr.second.first;
             int col = curr.second.second;
             int length = curr.first;
-
             if (row==m-1 && col==n-1) return length;
 
             for (int i=-1;i<=1;i++){
@@ -27,7 +26,7 @@ public:
                     int nc = col+j;
                     if (nr>=0 && nr<m && nc>=0 && nc<n && !visited[nr][nc] && grid[nr][nc]==0){
                         visited[nr][nc]=1;
-                        pq.push({length+1, {nr, nc}});
+                        q.push({length+1, {nr, nc}});
                     }
                 }
             }
