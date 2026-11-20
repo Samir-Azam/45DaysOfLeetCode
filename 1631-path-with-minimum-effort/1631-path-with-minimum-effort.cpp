@@ -20,6 +20,7 @@ public:
             int effort = it.first;
             int row_number = it.second.first;
             int col_number = it.second.second;
+            if (visited[row_number][col_number]) continue;
             visited[row_number][col_number]=1;
             int val = heights[row_number][col_number];
             if (row_number==row-1 && col_number==col-1) return effort;
